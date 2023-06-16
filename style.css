@@ -21,7 +21,7 @@ h1 {
     align-content: center;
     justify-content: center;
     width: 100%;
-    height: 100vh;
+    height: 90vh;
     background-color: #944089;
 }
 
@@ -98,4 +98,14 @@ h1 {
     transform: scale(1.05);
     background-color: #ff0676;
 
+}
+
+.rodape {
+    color: #000000;
+    background-color: #22D4FD;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
 }
