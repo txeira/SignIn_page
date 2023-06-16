@@ -11,4 +11,4 @@ I've been studying some HTML and CSS and to put this knowledge into practice I m
 * [CSS](https://www.w3schools.com/css/)
 
 ## :camera: Screenshot
-![image](https://github.com/txeira/SignIn_page/assets/49416424/fd7ece08-9e0b-465e-8837-d30103858e32)
+![image](https://github.com/txeira/SignIn_page/blob/main/Screenshot_1.jpg)
