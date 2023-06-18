@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Diphylleia&family=Karla:ital,wght@1,200&family=Moirai+One&display=swap');
 
-body {
+body,
+input {
     margin: 0;
     padding: 0;
     color: #1b6488;
     box-sizing: border-box;
-    font-family: 'Diphylleia', serif;
+
 }
 
 .page__div {
@@ -104,7 +105,17 @@ body {
     background-color: #22D4FD;
     padding: 10px;
     text-align: center;
-    font-family: 'Moirai One', cursive;
+    font-family: 'Karla', sans-serif;
     font-size: 20px;
     font-weight: 400;
+}
+
+.toggle {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    background-color: red;
+    border-radius: 30px;
+    border: 2px solid gray;
 }
